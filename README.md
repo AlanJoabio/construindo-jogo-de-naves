@@ -1,4 +1,5 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/AlanJoabio/DesafiodaDIO) 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 
 <!--Banner session-->
 <p align="center">
@@ -10,11 +11,14 @@
 <h1 align="center">
 Desafio de Projeto da DIO
 </p>
+  
+> :construction: Projeto em construção | Project under construction :construction:
 
 Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha carreira, incluir  as atividades da Digital Innovation One.
 
 ### Os bootcamps que estou estudando e buscando novos desafios na [Digital Innovation One](https://digitalinnovation.one/).
  </p>
+
   
 <p align="center">
 <!-- Ícones das linguagens -->
